@@ -1,0 +1,13 @@
+# Thire=d Chapter
+1. [Protobuf实现Android Socket通讯开发教程](http://www.cnblogs.com/reborter/archive/2012/06/04/2535213.html)
+2. [Android中基于protobuf的socket通信的实例](http://gqdy365.iteye.com/blog/2163076)
+3. [谁能用通俗的语言解释一下什么是RPC框架？](http://www.zhihu.com/question/25536695)
+4. [Protobuf实现Android Socket通讯开发教程](http://www.cnblogs.com/reborter/archive/2012/06/04/2535213.html)
+5. [你应该知道的 RPC 原理](http://blog.jobbole.com/92290/)
+6. [RPC应用的java实现](http://www.cnblogs.com/flyoung2008/archive/2011/11/12/2246282.html)
+7. [程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list/)
+8. [《Netty in Action》中文版—第五章 ByteBuf](http://ifeve.com/netty-in-action-5/)
+9. [《Netty 权威指南》—— NIO客户端序列图](http://ifeve.com/netty-2-3-4/)
+10. [Android中保存和恢复Fragment状态的最好方法](http://www.2cto.com/kf/201503/386389.html)
+11. [Fragment的生命周期和派生类](http://blog.csdn.net/eyu8874521/article/details/8153412)
+12. [Netty精粹之基于EventLoop机制的高效线程模型](http://my.oschina.net/andylucc/blog/618179#navbar-header)
